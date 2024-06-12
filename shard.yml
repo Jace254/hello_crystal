@@ -1,0 +1,13 @@
+name: hello_crystal
+version: 0.1.0
+
+authors:
+  - Hypnos <47209391+Jace254@users.noreply.github.com>
+
+targets:
+  hello_crystal:
+    main: src/hello_crystal.cr
+
+crystal: '>= 1.12.2'
+
+license: MIT
