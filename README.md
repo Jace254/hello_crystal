@@ -1,22 +1,18 @@
 # hello_crystal
 
-TODO: Write a description here
-
-## Installation
-
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
+First crystal app
 
 ## Development
 
-TODO: Write development instructions here
+Run:
+
+```bash
+crystal run --release ./src/main.cr
+```
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/hello_crystal/fork>)
+1. Fork it (<https://github.com/Jace254/hello_crystal/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
