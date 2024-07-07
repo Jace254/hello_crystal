@@ -7,7 +7,7 @@ First crystal app
 Run:
 
 ```bash
-crystal run --release ./src/main.cr
+crystal run --release ./src/hello_crystal.cr
 ```
 
 ## Contributing
